@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gnanam
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Data Peoples
 - 📫 How to reach me https://www.linkedin.com/in/gnanasambanthanr/
